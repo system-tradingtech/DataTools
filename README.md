@@ -13,16 +13,16 @@
   * 例）GetData("データソース名","銘柄コード","フィールド名")
 
 データソース名
-1. YahooJP: http://finance.yahoo.co.jp/
-2. YahooUS: http://finance.yahoo.com/
+* YahooJP: http://finance.yahoo.co.jp/
+* YahooUS: http://finance.yahoo.com/
 
 フィールド名一覧
-1. LAST: 直近約定値 (YahooJP)
-2. OPEN: 始値 (YahooJP,YahooUS)
-3. HIGH: 高値 (YahooJP)
-4. LOW: 安値 (YahooJP)
-5. ASK: 売気配値 (YahooJPにて別途契約,YahooUS)
-6. BID: 買気配値 (YahooJPにて別途契約,YahooUS)
+* LAST: 直近約定値 (YahooJP)
+* OPEN: 始値 (YahooJP,YahooUS)
+* HIGH: 高値 (YahooJP)
+* LOW: 安値 (YahooJP)
+* ASK: 売気配値 (YahooJPにて別途契約,YahooUS)
+* BID: 買気配値 (YahooJPにて別途契約,YahooUS)
 
 ###ダウンロード
 * このプラグインはGitHubにて公開されています。
