@@ -34,6 +34,9 @@
 * 任意のフォルダにビルドファルダの内容をコピーする。
 * Excel上で、オプション->アドイン->設定->参照から先ほど作成したフォルダ内の"ExcelDNA.xll"または"ExcelDNA64.xll"を選択する。
 
+###サンプル画像
+![サンプル](http://system-tradingtech.com/resource/pic/sample.png)
+
 ###注意点
 データは現在、
 * Yahooファイナンス (JP)
