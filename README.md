@@ -25,8 +25,10 @@
 * BID: 買気配値 (YahooJPにて別途契約,YahooUS)
 
 ###ダウンロード
-* このプラグインはGitHubにて公開されています。
+* このアドインははGitHubにて公開されています。
     * https://github.com/system-tradingtech/DataTools/downloads
+* 実行ファイルはzip形式で当ブログにて公開されています。
+    * http://system-tradingtech.com/blog/exceldna-and-rtdserver/
 
 ###インストール
 * 任意のフォルダにビルドファルダの内容をコピーする。
